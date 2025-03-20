@@ -55,8 +55,4 @@ After finishing execution, it provides:
 - Performance metrics
 - Visual representations for feature study and classification analysis
 
-## License
-This is an open-source project and free for research and educational usage.
 
-## Author
-SANJAI.S
