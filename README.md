@@ -30,7 +30,7 @@ pip install numpy pandas seaborn tensorflow shap umap-learn scikit-learn matplot
 ## Usage
 1. **Execute the script**:
 ```bash
-python parkinsons_diesease_detection.py
+python parkinsons_diesease_detector.py
 ```
 2. The resulting model would be stored in `manual_tuned_parkinsons_model.h5`.
 3. The script will print accuracy, classification report, confusion matrix, and visualization.
