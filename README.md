@@ -9,7 +9,6 @@ The dataset used is sourced from the [UCI Machine Learning Repository](https://a
 ## Features Used
 - **Vocal features** obtained from the patients.
 - **Normalization** through StandardScaler.
-- **Dimensionality reduction using** UMAP.
 - **Feature visualization** via KDE plots and UMAP projections.
 
 ## Model Architecture
