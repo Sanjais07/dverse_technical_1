@@ -19,6 +19,8 @@ from sklearn.manifold import TSNE
 url = "https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/parkinsons.data"
 df = pd.read_csv(url)
 
+print(df.head())
+
 # Dropping the non-feature columns
 X = df.drop(columns=['name', 'status'])  # 'status' is the target variable
 y = df['status']  # 1 = Parkinson’s, 0 = Healthy
